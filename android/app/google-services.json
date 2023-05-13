@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842407649585",
+    "project_id": "chatgpt-bot-e38a7",
+    "storage_bucket": "chatgpt-bot-e38a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842407649585:android:62e6bab07bba7b786f5010",
+        "android_client_info": {
+          "package_name": "com.ritesh.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842407649585-s2gboqjkrr1vfcinue0pntf7nojr0vvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9QqgGCs_T3Tg-Wjtd-qOqKvY2Y-1ovVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842407649585-s2gboqjkrr1vfcinue0pntf7nojr0vvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
